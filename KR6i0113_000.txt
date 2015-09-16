@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 不思議光菩薩所說經
+#+DATE: 2015-08-30 20:10:07.273591
+#+PROPERTY: JUAN 0
